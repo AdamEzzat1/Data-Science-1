@@ -3,4 +3,4 @@
 
 
 # Machine Learning Platforms
-+Databricks - Spark, Databricks- Apache Hadoop
++ Databricks - Spark, Databricks- Apache Hadoop (in progress)
